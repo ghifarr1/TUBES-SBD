@@ -1,2 +1,2 @@
 # TUBES-SBD
-Tugas Besar Desain Sistem Basis Data Semester 2
+Tugas Besar Sistem Basis Data Semester 2
